@@ -1,0 +1,90 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+"imgrese tu nombre"
+5
+1
+6
+nombre
+4
+1
+19
+"imgrese tu genero"
+5
+1
+6
+genero
+7
+0
+1
+14
+genero="mujer"
+7
+0
+1
+15
+genero="hombre"
+4
+1
+21
+"genero no existente"
+13
+4
+1
+17
+"escribe tu edad"
+5
+1
+4
+edad
+7
+0
+1
+7
+edad>18
+7
+0
+1
+22
+edad<=17 and (edad>=5)
+7
+0
+1
+7
+edad<=8
+13
+4
+1
+28
+"ingresa con un acompañante"
+13
+13
+4
+1
+29
+"entrar al baño para menores"
+13
+13
+4
+1
+28
+"ingrese al baño de hombres"
+4
+1
+28
+"ingrese al baño para niños"
+13
+13
+13
+4
+1
+15
+"puedes entrar"
+13
+1

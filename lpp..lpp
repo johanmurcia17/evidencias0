@@ -1,0 +1,12 @@
+entero edad
+cadena [25] nombre
+cadena [10] pelgarto
+inicio
+escriba "ingrese su nombre"
+llamar nueva_linea
+lea nombre
+escriba "ingrese su edad"
+llamar nueva_linea
+lea edad
+escriba "tu nombre es: ", nombre, "  y tienes ",  edad
+fin

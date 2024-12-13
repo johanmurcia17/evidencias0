@@ -1,0 +1,12 @@
+cadena [20] usuario
+cadena [20] clave
+inicio
+escriba "ingrese su usuario y clave"
+llamar nueva_linea
+lea clave
+si (usuario="cosa") y (clave="raza") entonces
+escriba "biienvenido"
+sino
+escriba "usuario o clave no valida"
+fin si
+fin

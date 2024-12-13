@@ -1,0 +1,97 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+n1
+2
+30
+2
+n2
+2
+40
+2
+n3
+2
+50
+7
+1
+1
+17
+n1<n2  and  n2<n3
+4
+1
+25
+ "el numero mayor es:",n3
+4
+1
+25
+ "el numero medio es:",n2
+4
+1
+25
+ "el numero menor es:",n1
+7
+1
+1
+17
+n1>n2  and  n2>n3
+4
+1
+25
+ "el numero mayor es:",n1
+4
+1
+24
+"el numero medio es:",n2
+4
+1
+24
+"el numero menor es:",n3
+7
+1
+1
+17
+n1>n2  and  n2<n3
+4
+1
+25
+ "el numero mayor es:",n3
+4
+1
+24
+"el numero medio es:",n1
+4
+1
+24
+"el numero menor es:",n2
+7
+1
+1
+17
+n1<n2  and  n2>n3
+4
+1
+24
+"el numero mayor es:",n2
+4
+1
+25
+"el numwero medio es:",n3
+4
+1
+24
+"el numero menor es:",n1
+13
+13
+13
+13
+13
+13
+13
+13
+1
